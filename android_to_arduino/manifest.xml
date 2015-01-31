@@ -1,0 +1,18 @@
+<package>
+  <description brief="android_to_arduino">
+
+     android_to_arduino
+
+  </description>
+  <author>Gonzalo Bulnes Guilpain</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/android_to_arduino</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
