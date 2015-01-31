@@ -1,9 +1,17 @@
 ROS Demo: Android to Arduino
 ============================
 
-A demonstration [ROS node in Python][tutorial] to connect an Android device with an Arduino board.
+A demonstration [ROS][ros] node in Python to connect an Android device with an Arduino board.
 
+  [ros]: http://www.ros.org
   [tutorial]: http://wiki.ros.org/android_sensors_driver/Tutorials/DrivingAnArduinoBoardFromAnAndroidDevice
+
+Tutorial
+--------
+
+Tutorials in the ROS Wiki use to describe line-by-line what the example code does and to explain why. So does the tutorial which describes this ROS package: see [DrivingAnArduinoBoardFromAnAndroidDevice][tutorial] at the [ROS Wiki][wiki].
+
+  [wiki]: http://wiki.ros.org
 
 License
 -------
