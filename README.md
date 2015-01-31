@@ -6,12 +6,23 @@ A demonstration [ROS][ros] node in Python to connect an Android device with an A
   [ros]: http://www.ros.org
   [tutorial]: http://wiki.ros.org/android_sensors_driver/Tutorials/DrivingAnArduinoBoardFromAnAndroidDevice
 
+<img src="assets/system-overview.png" alt=""/>
+
 Tutorial
 --------
 
 Tutorials in the ROS Wiki use to describe line-by-line what the example code does and to explain why. So does the tutorial which describes this ROS package: see [DrivingAnArduinoBoardFromAnAndroidDevice][tutorial] at the [ROS Wiki][wiki].
 
   [wiki]: http://wiki.ros.org
+
+Credits
+-------
+
+The [ROS][ros-credit], [Arduino][arduino-credit] and [Android][android-credit] logos and pictures are propiety of their authors, please follow the links for details about their respective copyrights and licenses. 
+
+  [ros-credit]: http://www.ros.org/_wiki/images/ros_org.png
+  [android-credit]:  http://en.wikipedia.org/wiki/File:Android_robot.svg
+  [arduino-credit]: http://en.wikipedia.org/wiki/File:Arduino_Duemilanove_2009b.jpg
 
 License
 -------
