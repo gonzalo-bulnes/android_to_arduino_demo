@@ -15,6 +15,20 @@ Tutorials in the ROS Wiki use to describe line-by-line what the example code doe
 
   [wiki]: http://wiki.ros.org
 
+Presentation
+------------
+
+This demonstration project was written to illustrate a talk. The second half of that talk describes the project setup and how it works, see [Free Software to Develop Free Robotics][FLOSH]. 
+
+  [FLOSH]: https://github.com/gonzalo-bulnes/free-software-to-develop-free-robotics
+
+See Also
+--------
+
+The [Android Sensors Driver][asd] project, now on Github!
+
+  [asd]: https://github.com/ros-android/android_sensors_driver
+
 Credits
 -------
 
